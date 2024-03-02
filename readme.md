@@ -1,0 +1,1 @@
+A comprehensive project management tool that helps teams collaborate, plan, and track their projects. It offers features such as task management, milestone tracking, team communication, and project analytics.
